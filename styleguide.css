@@ -1,0 +1,20 @@
+:root {
+  --blue: rgba(44, 125, 250, 1);
+  --blue-shade: rgba(54, 133, 255, 1);
+  --dark-navy: rgba(31, 49, 79, 1);
+  --grey: rgba(125, 136, 158, 1);
+  --light-grey: rgba(213, 225, 239, 1);
+  --white: rgba(255, 255, 255, 1);
+  --heading-font-family: "Outfit", Helvetica;
+  --heading-font-weight: 700;
+  --heading-font-size: 22px;
+  --heading-letter-spacing: 0px;
+  --heading-line-height: normal;
+  --heading-font-style: normal;
+  --body-font-family: "Outfit", Helvetica;
+  --body-font-weight: 400;
+  --body-font-size: 15px;
+  --body-letter-spacing: 0.1875px;
+  --body-line-height: normal;
+  --body-font-style: normal;
+}
